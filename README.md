@@ -1,5 +1,11 @@
 # DataScience-at-Scale
 
-<object data="data/test.pdf" type="application/pdf" width="300" height="200">
-<a href="data/test.pdf">test.pdf</a>
-</object>
+[Time Vs Number of Records.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102715/Time.Vs.Number.of.Records.pdf)
+[Time Vs Resolution.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102714/Time.Vs.Resolution.pdf)
+[Weekend vs Weekday.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102716/Weekend.vs.Weekday.pdf)
+[Area Vs District Vs Time.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102718/Area.Vs.District.Vs.Time.pdf)
+[Category Vs location vs NoOfRecords.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102719/Category.Vs.location.vs.NoOfRecords.pdf)
+[Category Vs NumberOfRecords.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102717/Category.Vs.NumberOfRecords.pdf)
+[Crime Vs Resolution.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102720/Crime.Vs.Resolution.pdf)
+[Dashboard.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102721/Dashboard.pdf)
+[Day Vs No of records.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102722/Day.Vs.No.of.records.pdf)
