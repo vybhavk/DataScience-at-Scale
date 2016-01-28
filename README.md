@@ -38,14 +38,14 @@ So we can say that Southern district has more crime incidents especailly theft.
 Lets check the rate resolution of the crime reports a bit particularly on catagories ARREST,CITED,NONE with respective to the time the incident happened.
 <br>[Time Vs Resolution.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102714/Time.Vs.Resolution.pdf) <br>
 
-<b>Steps followed in Tableau for Data visualization.</br>
-1)Drag what ever the rows we need to represent in graph to the Row field.
-2)Drag the fields to the Column field.
+<b>Steps followed in Tableau for Data visualization</b></br>
+1)Drag what ever the rows we need to represent in graph to the Row field.</br>
+2)Drag the fields to the Column field.</br>
 3) we can create filter by using some columns.
 
 Ex:
-1) Drag "Number of Records" from measures to rows.
-2) Drag "Hour(time)" from dimensions to columns. By default, this will be aggregated to Hour.
+1) Drag "Number of Records" from measures to rows.<br>
+2) Drag "Hour(time)" from dimensions to columns. By default, this will be aggregated to Hour.<br>
 3) we can create filter by using some columns like catagory or district column.
 </br>[sample](https://cloud.githubusercontent.com/assets/16448123/12662716/3c49cad0-c5f0-11e5-900a-5a06bd50823d.PNG)
 
