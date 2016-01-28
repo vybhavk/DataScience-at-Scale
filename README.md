@@ -47,6 +47,6 @@ Ex:
 1) Drag "Number of Records" from measures to rows.
 2) Drag "Hour(time)" from dimensions to columns. By default, this will be aggregated to Hour.
 3) we can create filter by using some columns like catagory or district column.
-</br><img src=".jpg" alt="Mountain View" style="width:304px;height:228px;">
+</br>[sample](https://cloud.githubusercontent.com/assets/16448123/12662716/3c49cad0-c5f0-11e5-900a-5a06bd50823d.PNG)
 
 Optional: Right click anywhere in the visualization and go to "Trend Lines" and click "Show Trend Lines."To view the statistical model, right click again, go to "Trend Lines" and click "Describe Trend Model."
