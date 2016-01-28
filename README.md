@@ -4,13 +4,13 @@ I have used the San Francsico data set to do Data Visualization by using the tab
 
 My intention is to visualize how the Number of records are there with respective to Time,Category,Location,on day of week.
 
-<b>TIME VS NUMBER OF RECORDS<br>
+<b>TIME VS NUMBER OF RECORDS<br></b>
 
 This shows the Visualization between Time ,Number of records:
 <br> [Time Vs Number of Records.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102715/Time.Vs.Number.of.Records.pdf)</br>
 We can see that in evenging from 5- 6 pm the Crime rate is high while in early morning 4 am the Crime rate is low when compared to other part of the day.
 
-<b>DAY VS NUMBER OF RECORDS<br>
+<b>DAY VS NUMBER OF RECORDS</b></br>
 
 Lets check the Crime rate as per the day of week with respective to each district.
 <br>[Day Vs No of records.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/102722/Day.Vs.No.of.records.pdf)</br>
