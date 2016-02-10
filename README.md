@@ -2,9 +2,6 @@
 
 
 
-[Visualization.pdf](https://github.com/vybhavk/DataScience-at-Scale/files/125686/Test.pdf)
-
-
 
 <b>Steps followed in Tableau for Data visualization</b></br>
 1)Drag what ever the rows we need to represent in graph to the Row field.</br>
